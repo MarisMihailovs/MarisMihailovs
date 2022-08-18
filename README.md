@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MarisMihailovs (a web development hobbyist) 
+- 👋 Hi, I’m @MarisMihailovs digital signage pro and a web development hobbyist.
 - 👀 I’m interested in web development (html, css, javascript, mongo, express, node)
 - 🌱 I’m currently learning - MERN stack  
-- 💞️ I’m looking to collaborate on any fun and begginer friendly projects.
+- 💞️ I’m looking to collaborate on any fun and digital signage related projects.
 - 📫 How to reach me ... marismihailovs@gmail.com
 
 <!---
