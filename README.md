@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarisMihailovs webDev hobbyist, tutorial hell is real :) 
+- 👋 Hi, I’m @MarisMihailovs webDev hobbyist
 - 👀 I’m interested in web development (html, css, javascript, react, mongo, express, node)
 - 🌱 I’m currently learning - MERN stack  
 - 💞️ I’m looking to collaborate on any fun and digital signage related projects.
